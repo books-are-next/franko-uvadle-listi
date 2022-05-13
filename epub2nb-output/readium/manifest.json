@@ -1,0 +1,389 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Uvadlé listí",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Ivan Franko",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-05-31T00:00:00.000Z",
+    "published": "2021-05-31T12:48:37.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uvadle_listi_045.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/OBALKA01-0004593972.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "PRVNÍ HRST",
+      "children": [
+        {
+          "title": "Po dlouhém, tupém, tíživém spánku",
+          "href": "OEBPS/Text/uvadle_listi_007.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "Nemám strach z Boha, nemám strach z běsů",
+          "href": "OEBPS/Text/uvadle_listi_008.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Proč tě tak miluji, překrásná moje paní",
+          "href": "OEBPS/Text/uvadle_listi_009.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Jednou jsme se znenadání",
+          "href": "OEBPS/Text/uvadle_listi_010.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Ano, tys jediná pravdivá láska moje",
+          "href": "OEBPS/Text/uvadle_listi_011.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Tvůj zrak je jako tiché moře",
+          "href": "OEBPS/Text/uvadle_listi_012.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "„Vzdej se všech nadějí!“",
+          "href": "OEBPS/Text/uvadle_listi_013.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Ty pole bez konce, ty pole bílé",
+          "href": "OEBPS/Text/uvadle_listi_014.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Když mě potkáš na ulici",
+          "href": "OEBPS/Text/uvadle_listi_015.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Kolikrát se mi objevuje v snech",
+          "href": "OEBPS/Text/uvadle_listi_016.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Neproklínal jsem tě, drahá",
+          "href": "OEBPS/Text/uvadle_listi_017.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Ach mé štěstí, nevyčítám ti to",
+          "href": "OEBPS/Text/uvadle_listi_018.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Přízrak",
+          "href": "OEBPS/Text/uvadle_listi_019.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Epilog",
+          "href": "OEBPS/Text/uvadle_listi_020.xhtml#_idParaDest-15"
+        }
+      ],
+      "href": "OEBPS/Text/uvadle_listi_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "DRUHÁ HRST",
+      "children": [
+        {
+          "title": "V Přemyšlu nad zeleným proudem Sanu",
+          "href": "OEBPS/Text/uvadle_listi_022.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Poledne",
+          "href": "OEBPS/Text/uvadle_listi_023.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Rozpučel javor, zelený javor",
+          "href": "OEBPS/Text/uvadle_listi_024.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Hoj, ty mé děvčátko, jako květ prosté",
+          "href": "OEBPS/Text/uvadle_listi_025.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Kalinečko moje, proč se v háji skláníš",
+          "href": "OEBPS/Text/uvadle_listi_026.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Doubečku, dube zelenavý",
+          "href": "OEBPS/Text/uvadle_listi_027.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Ach ty žale, žale",
+          "href": "OEBPS/Text/uvadle_listi_028.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Pročpak se nesměješ nikdy?",
+          "href": "OEBPS/Text/uvadle_listi_029.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "Ve vlaku",
+          "href": "OEBPS/Text/uvadle_listi_030.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Smějte se mi, věčné hvězdy!",
+          "href": "OEBPS/Text/uvadle_listi_031.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Dokud tě nevidím",
+          "href": "OEBPS/Text/uvadle_listi_032.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Až někdy za noci uslyšíš pod okny",
+          "href": "OEBPS/Text/uvadle_listi_033.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Jak zvíře v jařmu táhnu dál den ze dne",
+          "href": "OEBPS/Text/uvadle_listi_034.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Padá, padá, padá sníh",
+          "href": "OEBPS/Text/uvadle_listi_035.xhtml#_idParaDest-30"
+        }
+      ],
+      "href": "OEBPS/Text/uvadle_listi_021.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "TŘETÍ HRST",
+      "children": [
+        {
+          "title": "Když vodu přikryjí ledy",
+          "href": "OEBPS/Text/uvadle_listi_037.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Matičko moje milovaná!",
+          "href": "OEBPS/Text/uvadle_listi_038.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Písni, mé ubohé střelené ptáče",
+          "href": "OEBPS/Text/uvadle_listi_039.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Buď sbohem též. Už nikdy víc",
+          "href": "OEBPS/Text/uvadle_listi_040.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Dost, písni, dost! Už nemáš sil",
+          "href": "OEBPS/Text/uvadle_listi_041.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Duše je nesmrtelná! Žije věčně!",
+          "href": "OEBPS/Text/uvadle_listi_042.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Taková malá, drobná věc",
+          "href": "OEBPS/Text/uvadle_listi_043.xhtml#_idParaDest-38"
+        }
+      ],
+      "href": "OEBPS/Text/uvadle_listi_036.xhtml#_idParaDest-31"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/uvadle_listi_044.xhtml#_idParaDest-39"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Uvadlé listí</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>PRVNÍ HRST</text>
+      </navLabel>
+      <content src="Text/uvadle_listi_006.xhtml#_idParaDest-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Po dlouhém, tupém, tíživém spánku</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_007.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Nemám strach z Boha, nemám strach z běsů</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_008.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Proč tě tak miluji, překrásná moje paní</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_009.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Jednou jsme se znenadání</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_010.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Ano, tys jediná pravdivá láska moje</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_011.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Tvůj zrak je jako tiché moře</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_012.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>„Vzdej se všech nadějí!“</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_013.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Ty pole bez konce, ty pole bílé</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_014.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Když mě potkáš na ulici</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_015.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Kolikrát se mi objevuje v snech</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_016.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Neproklínal jsem tě, drahá</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_017.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Ach mé štěstí, nevyčítám ti to</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_018.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Přízrak</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_019.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Epilog</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_020.xhtml#_idParaDest-15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>DRUHÁ HRST</text>
+      </navLabel>
+      <content src="Text/uvadle_listi_021.xhtml#_idParaDest-16"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>V Přemyšlu nad zeleným proudem Sanu</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_022.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Poledne</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_023.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Rozpučel javor, zelený javor</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_024.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Hoj, ty mé děvčátko, jako květ prosté</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_025.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Kalinečko moje, proč se v háji skláníš</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_026.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Doubečku, dube zelenavý</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_027.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Ach ty žale, žale</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_028.xhtml#_idParaDest-23"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Pročpak se nesměješ nikdy?</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_029.xhtml#_idParaDest-24"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Ve vlaku</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_030.xhtml#_idParaDest-25"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Smějte se mi, věčné hvězdy!</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_031.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Dokud tě nevidím</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_032.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Až někdy za noci uslyšíš pod okny</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_033.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Jak zvíře v jařmu táhnu dál den ze dne</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_034.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Padá, padá, padá sníh</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_035.xhtml#_idParaDest-30"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>TŘETÍ HRST</text>
+      </navLabel>
+      <content src="Text/uvadle_listi_036.xhtml#_idParaDest-31"/>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Když vodu přikryjí ledy</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_037.xhtml#_idParaDest-32"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Matičko moje milovaná!</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_038.xhtml#_idParaDest-33"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Písni, mé ubohé střelené ptáče</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_039.xhtml#_idParaDest-34"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Buď sbohem též. Už nikdy víc</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_040.xhtml#_idParaDest-35"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Dost, písni, dost! Už nemáš sil</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_041.xhtml#_idParaDest-36"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Duše je nesmrtelná! Žije věčně!</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_042.xhtml#_idParaDest-37"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Taková malá, drobná věc</text>
+        </navLabel>
+        <content src="Text/uvadle_listi_043.xhtml#_idParaDest-38"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/uvadle_listi_044.xhtml#_idParaDest-39"/>
+    </navPoint>
+  </navMap>
+</ncx>
