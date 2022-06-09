@@ -5,26 +5,26 @@ contentType: prose
 
 Ach ty žale, žale,
 
-> stále tíž tě cítím!  
-> Pustil jsem svou holubičku,  
-> už ji nezachytím!
+_stále tíž tě cítím!  
+Pustil jsem svou holubičku,  
+už ji nezachytím!_
 
-> Když tu byla blízko,  
-> já ji nepřilákal,  
-> a teď abych bez ustání  
-> v hloubi srdce plakal.
+_Když tu byla blízko,  
+já ji nepřilákal,  
+a teď abych bez ustání  
+v hloubi srdce plakal._
 
-> Když tu byla blízko,  
-> já ji nechtěl lekat,  
-> ale že tak brzy prchne,  
-> kdo to mohl čekat?
+_Když tu byla blízko,  
+já ji nechtěl lekat,  
+ale že tak brzy prchne,  
+kdo to mohl čekat?_
 
-> A když nenávratně,  
-> navždy uletěla,  
-> odnesla mi, vzala s sebou  
-> i mou duši z těla.
+_A když nenávratně,  
+navždy uletěla,  
+odnesla mi, vzala s sebou  
+i mou duši z těla._
 
-> Vzala moje snění,  
-> naděje a štěstí,  
-> tak jak bere s sebou jaro  
-> kvítí kolem cesty.
+_Vzala moje snění,  
+naděje a štěstí,  
+tak jak bere s sebou jaro  
+kvítí kolem cesty._

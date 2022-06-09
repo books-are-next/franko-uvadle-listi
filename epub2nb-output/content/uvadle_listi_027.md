@@ -5,31 +5,31 @@ contentType: prose
 
 Doubečku, dube zelenavý,
 
-> od čeho jsi tak kadeřavý?
+_od čeho jsi tak kadeřavý?_
 
-> Kadeřavý jsem od haluzí,  
-> podemlely mě drobné slzy.
+_Kadeřavý jsem od haluzí,  
+podemlely mě drobné slzy._
 
-> Kadeřavý jsem od zlých nocí,  
-> poranily mě černé oči.
+_Kadeřavý jsem od zlých nocí,  
+poranily mě černé oči._
 
-> Ty černé oči, krásné líce,  
-> ta pyšná řeč a plískanice.
+_Ty černé oči, krásné líce,  
+ta pyšná řeč a plískanice._
 
-> Ta pyšná řeč je nepohoda,  
-> ta rozluka — žal, který bodá.
+_Ta pyšná řeč je nepohoda,  
+ta rozluka — žal, který bodá._
 
-> Už moje srdce schne a chřadne,  
-> už moje krása vadne, vadne.
+_Už moje srdce schne a chřadne,  
+už moje krása vadne, vadne._
 
-> Už moje síla slábne, hyne,  
-> už sotva spatřím jaro jiné.
+_Už moje síla slábne, hyne,  
+už sotva spatřím jaro jiné._
 
-> Uvadlé listí padá, padá,  
-> a já též padnu jak ta kláda.
+_Uvadlé listí padá, padá,  
+a já též padnu jak ta kláda._
 
-> Zbytek mé krásy, zbytek síly  
-> rozřežou chvatně ostré pily.
+_Zbytek mé krásy, zbytek síly  
+rozřežou chvatně ostré pily._
 
-> Přeostré pily lidské zlosti,  
-> zdupe je svět svou lhostejností.
+_Přeostré pily lidské zlosti,  
+zdupe je svět svou lhostejností._

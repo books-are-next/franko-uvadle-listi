@@ -5,19 +5,19 @@ contentType: prose
 
 Dost, písni, dost! Už nemáš sil
 
-> tišit, co srdce týrá.  
-> Těžký mrak navždy slunce skryl,  
-> pohasl jas těch jarních chvil  
-> a duši plíseň sžírá.
+_tišit, co srdce týrá.  
+Těžký mrak navždy slunce skryl,  
+pohasl jas těch jarních chvil  
+a duši plíseň sžírá._
 
-> Dost, písni, dost! Teď zmlkni již  
-> a nelij do muk muka.  
-> Bez tebe cítím v prsou tíž,  
-> a když se v pláči rozezníš,  
-> tu zas mi srdce puká.
+_Dost, písni, dost! Teď zmlkni již  
+a nelij do muk muka.  
+Bez tebe cítím v prsou tíž,  
+a když se v pláči rozezníš,  
+tu zas mi srdce puká._
 
-> Dost, písni, dost! Tou hudbou vět  
-> nezhojím svoje rány.  
-> Mlčky jsem trpěl řadu let  
-> a mlčky taky klesnu teď  
-> navěky do nirvány.
+_Dost, písni, dost! Tou hudbou vět  
+nezhojím svoje rány.  
+Mlčky jsem trpěl řadu let  
+a mlčky taky klesnu teď  
+navěky do nirvány._

@@ -5,21 +5,21 @@ contentType: prose
 
 Padá, padá, padá sníh.
 
-> Ze studené tůně nebe  
-> v myriádách slétají  
-> motýlkové, z nichž to zebe,
+_Ze studené tůně nebe  
+v myriádách slétají  
+motýlkové, z nichž to zebe,_
 
-> jednotvární jako žal,  
-> mraziví jak špatný osud;  
-> postýlají pole, háj,  
-> všechno to, co žilo dosud.
+_jednotvární jako žal,  
+mraziví jak špatný osud;  
+postýlají pole, háj,  
+všechno to, co žilo dosud._
 
-> Bílý plášť, plášť mlčení,  
-> umrtvení, zapomnění,  
-> přikryl vše a svírá vše  
-> po nejhlubší kořen v zemi.
+_Bílý plášť, plášť mlčení,  
+umrtvení, zapomnění,  
+přikryl vše a svírá vše  
+po nejhlubší kořen v zemi._
 
-> Padá, padá, padá sníh.  
-> Plášť je těžší než ta hlína…  
-> Mladý oheň v smutné duši  
-> bliká, slábne, dohasíná.
+_Padá, padá, padá sníh.  
+Plášť je těžší než ta hlína…  
+Mladý oheň v smutné duši  
+bliká, slábne, dohasíná._
