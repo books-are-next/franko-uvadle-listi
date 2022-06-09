@@ -5,22 +5,22 @@ contentType: prose
 
 Hoj, ty mé děvčátko, jako květ prosté,
 
-> proč je tvé srdce jak ten trn ostré?
+_proč je tvé srdce jak ten trn ostré?_
 
-> Proč jsou tvá ústečka jak tichá voda  
-> a proč tvé slovo jako nůž bodá?
+_Proč jsou tvá ústečka jak tichá voda  
+a proč tvé slovo jako nůž bodá?_
 
-> Proč se tvé oči čarovně třpytí,  
-> tak že se srdce jako vích vznítí?
+_Proč se tvé oči čarovně třpytí,  
+tak že se srdce jako vích vznítí?_
 
-> Ach, ty tvé oči, kdo do nich zhlédne,  
-> ten ani k slunci už zrak nepozvedne.
+_Ach, ty tvé oči, kdo do nich zhlédne,  
+ten ani k slunci už zrak nepozvedne._
 
-> Proč mě tvé úsměvy vždycky jen bolí,  
-> proč mi rvou srdce jak bouře v poli?
+_Proč mě tvé úsměvy vždycky jen bolí,  
+proč mi rvou srdce jak bouře v poli?_
 
-> Hoj, ty mé děvčátko, jasné jak zoře,  
-> tys moje štěstí, tys moje hoře.
+_Hoj, ty mé děvčátko, jasné jak zoře,  
+tys moje štěstí, tys moje hoře._
 
-> Když na tě pohledím, rád tě mít musím,  
-> a když tě miluji, žalem se dusím.
+_Když na tě pohledím, rád tě mít musím,  
+a když tě miluji, žalem se dusím._
