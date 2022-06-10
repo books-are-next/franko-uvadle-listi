@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 V Přemyšlu nad zeleným proudem Sanu
 
 _na mostě stál jsem v těžkých myšlenkách,  
@@ -13,14 +15,26 @@ a po němž zbylo jen to věčné hoře.
 A vzpomněl jsem si na vyprávění,  
 jež jsem v tom kraji slyšel od lidu._
 
+</section>
+
+<section>
+
 _Bylo to v zimě; přes zelený San  
 se klenul jako most třpytivý led  
 a na něm hladká cesta pro saně._
+
+</section>
+
+<section>
 
 _V neděli jednou, právě o polednách,  
 šli lidé ze mše. Slunce svítilo,  
 sníh jiskřil a houf lidu, hlučící  
 veselým hovorem, pustil se k Sanu._
+
+</section>
+
+<section>
 
 _Za Sanem v dálce, v zasněžené pláni  
 se mihl černý bod: zazněly zvonce,  
@@ -37,6 +51,10 @@ Takový kočár s takovými koňmi
 tu ještě neviděli. Nikdo z nich,  
 ať starý nebo mladý, nevěděl,  
 kdo to tak pádí, odkud, proč a kam._
+
+</section>
+
+<section>
 
 _Čtyrspřeží, aniž chvilku stanulo,  
 vletělo na led. Křišťálová plocha  
@@ -59,6 +77,10 @@ se velkou vlnou vyhrnula na led
 a zase stáhla do tajemných hloubek:  
 po koních, po kočáře ani sled!_
 
+</section>
+
+<section>
+
 _A nikdo z lidí nikdy nezvěděl,  
 kdo to tak pádil, odkud, proč a kam.  
 Nikdo se nikdy po nich nezeptal  
@@ -77,3 +99,5 @@ když vzpomenu na naše setkání
 a na ten krátký zásvit naděje,  
 v níž jsem žil tenkrát — bych dnes přísahal,  
 že to byl sen, legenda od Sanu._
+
+</section>
