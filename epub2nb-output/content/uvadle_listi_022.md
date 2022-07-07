@@ -44,7 +44,7 @@ nádherné čtyrspřeží. Kov postrojů
 se blyští na slunci; jak vichřice  
 letí ten kočár a jak pistole  
 práská bič vozky…  
-                                     Chudý selský lid  
+            Chudý selský lid  
 u břehu hledí na to zjevení  
 a užasne. Kdo by to mohl být?  
 Takový kočár s takovými koňmi  
@@ -63,7 +63,7 @@ na ledě zazvonila, zmrzlý sníh
 zaskřípal ostře pod železem kol.  
 Vozkův bič zapráskal a spřežení  
 se hnalo dál jak vichr.  
-                                          Pojednou  
+            Pojednou  
 však vprostřed řeky, kde led přikrývá  
 nejhlubší víry, cosi řachlo — jednou,  
 jen jednou cosi řachlo! V ledu zel  
@@ -90,7 +90,7 @@ ten _zázrak_ sám a neměl na sto svědků,
 sám by si časem přestal asi věřit,  
 sám by se časem v duchu utvrdil,  
 že to byl sen.  
-                                    A to je moje drama!  
+            A to je moje drama!  
 Nebýt těch roků dlouhých těžkých muk,  
 palčivých strastí, slz a třeštění,  
 ztupělých rezignací, vzteklých revolt  
