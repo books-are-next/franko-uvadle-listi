@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Rozpučel javor, zelený javor,
+contentType: poetry
 ---
 
 <section>
-
-Rozpučel javor, zelený javor,
 
 _však ještě víc ta jíva.  
 Hoj, ze všech děvčat jediná  

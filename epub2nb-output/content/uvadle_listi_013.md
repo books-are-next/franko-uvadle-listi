@@ -1,6 +1,6 @@
 ---
 title: „Vzdej se všech nadějí!“
-contentType: prose
+contentType: poetry
 ---
 
 <section>

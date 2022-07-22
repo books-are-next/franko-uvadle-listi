@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Taková malá, drobná věc,
+contentType: poetry
 ---
 
 <section>
-
-Taková malá, drobná věc,
 
 _studená, třpytící se…  
 Jen stisk… jen mžik… a nakonec  

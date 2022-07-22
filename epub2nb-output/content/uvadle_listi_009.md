@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Proč tě tak miluji, překrásná moje paní,
+contentType: poetry
 ---
 
 <section>
-
-Proč tě tak miluji, překrásná moje paní,
 
 _že se mi srdce vždy rozbuší zmateně,  
 kdykoli s hrdostí procházíš kolem mě?  

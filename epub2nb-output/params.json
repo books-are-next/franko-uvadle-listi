@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Uvadlé listí",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ivan Franko",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-05-31T00:00:00.000Z"
+      "modified": "2021-05-31T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp",
+      "edition": "poezie"
     },
     "elements": {
-      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL\nPRVNI_VERS_DO_OBSAHU",
       "subtitle": "",
       "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
@@ -20,11 +24,11 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
-      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -32,50 +36,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "uvadle_listi_001.md",
             "xhtml": "uvadle_listi_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_002.md",
             "xhtml": "uvadle_listi_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_003.md",
             "xhtml": "uvadle_listi_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_004.md",
             "xhtml": "uvadle_listi_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_005.md",
@@ -86,7 +95,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "uvadle_listi_006.md",
@@ -97,7 +108,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "PRVNÍ HRST"
           },
           {
             "filename": "uvadle_listi_007.md",
@@ -108,7 +121,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_008.md",
@@ -119,7 +133,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_009.md",
@@ -130,7 +145,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_010.md",
@@ -141,7 +157,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_011.md",
@@ -152,7 +169,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_012.md",
@@ -163,7 +181,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_013.md",
@@ -174,7 +193,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "„Vzdej se všech nadějí!“"
           },
           {
             "filename": "uvadle_listi_014.md",
@@ -185,7 +206,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_015.md",
@@ -196,7 +218,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_016.md",
@@ -207,7 +230,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_017.md",
@@ -218,7 +242,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_018.md",
@@ -229,7 +254,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_019.md",
@@ -240,7 +266,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Přízrak"
           },
           {
             "filename": "uvadle_listi_020.md",
@@ -251,7 +279,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Epilog"
           },
           {
             "filename": "uvadle_listi_021.md",
@@ -262,7 +292,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "DRUHÁ HRST"
           },
           {
             "filename": "uvadle_listi_022.md",
@@ -273,7 +305,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_023.md",
@@ -284,7 +317,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_024.md",
@@ -295,7 +329,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_025.md",
@@ -306,7 +341,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_026.md",
@@ -317,7 +353,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_027.md",
@@ -328,7 +365,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_028.md",
@@ -339,7 +377,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_029.md",
@@ -350,7 +389,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_030.md",
@@ -361,7 +401,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ve vlaku"
           },
           {
             "filename": "uvadle_listi_031.md",
@@ -372,7 +414,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_032.md",
@@ -383,7 +426,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_033.md",
@@ -394,7 +438,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_034.md",
@@ -405,7 +450,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_035.md",
@@ -416,7 +462,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_036.md",
@@ -427,7 +474,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TŘETÍ HRST"
           },
           {
             "filename": "uvadle_listi_037.md",
@@ -438,7 +487,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_038.md",
@@ -449,7 +499,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_039.md",
@@ -460,7 +511,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_040.md",
@@ -471,7 +523,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_041.md",
@@ -482,7 +535,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_042.md",
@@ -493,7 +547,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_043.md",
@@ -504,7 +559,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "uvadle_listi_044.md",
@@ -515,7 +571,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "uvadle_listi_045.md",
@@ -526,7 +584,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -578,37 +637,37 @@
         "xhtml": "uvadle_listi_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Po dlouhém, tupém, tíživém spánku",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_007.md",
         "xhtml": "uvadle_listi_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nemám strach z Boha, nemám strach z běsů,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_008.md",
         "xhtml": "uvadle_listi_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Proč tě tak miluji, překrásná moje paní,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_009.md",
         "xhtml": "uvadle_listi_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jednou jsme se znenadání",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_010.md",
         "xhtml": "uvadle_listi_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ano, tys jediná pravdivá láska moje,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_011.md",
         "xhtml": "uvadle_listi_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tvůj zrak je jako tiché moře",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_012.md",
         "xhtml": "uvadle_listi_012.xhtml"
@@ -620,31 +679,31 @@
         "xhtml": "uvadle_listi_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ty pole bez konce, ty pole bílé,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_014.md",
         "xhtml": "uvadle_listi_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Když mě potkáš na ulici,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_015.md",
         "xhtml": "uvadle_listi_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kolikrát se mi objevuje v snech,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_016.md",
         "xhtml": "uvadle_listi_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Neproklínal jsem tě, drahá,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_017.md",
         "xhtml": "uvadle_listi_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ach mé štěstí, nevyčítám ti to,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_018.md",
         "xhtml": "uvadle_listi_018.xhtml"
@@ -668,49 +727,49 @@
         "xhtml": "uvadle_listi_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V Přemyšlu nad zeleným proudem Sanu",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_022.md",
         "xhtml": "uvadle_listi_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poledne\\.",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_023.md",
         "xhtml": "uvadle_listi_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Rozpučel javor, zelený javor,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_024.md",
         "xhtml": "uvadle_listi_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hoj, ty mé děvčátko, jako květ prosté,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_025.md",
         "xhtml": "uvadle_listi_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kalinečko moje, proč se v háji skláníš,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_026.md",
         "xhtml": "uvadle_listi_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Doubečku, dube zelenavý,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_027.md",
         "xhtml": "uvadle_listi_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ach ty žale, žale,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_028.md",
         "xhtml": "uvadle_listi_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pročpak se nesměješ nikdy?",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_029.md",
         "xhtml": "uvadle_listi_029.xhtml"
@@ -722,31 +781,31 @@
         "xhtml": "uvadle_listi_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Smějte se mi, věčné hvězdy!",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_031.md",
         "xhtml": "uvadle_listi_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dokud tě nevidím,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_032.md",
         "xhtml": "uvadle_listi_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Až někdy za noci uslyšíš pod okny",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_033.md",
         "xhtml": "uvadle_listi_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jak zvíře v jařmu táhnu dál den ze dne",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_034.md",
         "xhtml": "uvadle_listi_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Padá, padá, padá sníh\\.",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_035.md",
         "xhtml": "uvadle_listi_035.xhtml"
@@ -758,43 +817,43 @@
         "xhtml": "uvadle_listi_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Když vodu přikryjí ledy,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_037.md",
         "xhtml": "uvadle_listi_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Matičko moje milovaná!",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_038.md",
         "xhtml": "uvadle_listi_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Písni, mé ubohé střelené ptáče,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_039.md",
         "xhtml": "uvadle_listi_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Buď sbohem též\\. Už nikdy víc",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_040.md",
         "xhtml": "uvadle_listi_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dost, písni, dost! Už nemáš sil",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_041.md",
         "xhtml": "uvadle_listi_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Duše je nesmrtelná! Žije věčně!",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_042.md",
         "xhtml": "uvadle_listi_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Taková malá, drobná věc,",
         "subtitleSuggest": "",
         "filename": "uvadle_listi_043.md",
         "xhtml": "uvadle_listi_043.xhtml"
@@ -878,6 +937,6 @@
       "user": "books-are-next",
       "repo": "franko-uvadle-listi"
     },
-    "generatedAt": 1658413394030
+    "generatedAt": 1658479083138
   }
 }

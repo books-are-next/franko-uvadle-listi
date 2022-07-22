@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Písni, mé ubohé střelené ptáče,
+contentType: poetry
 ---
 
 <section>
-
-Písni, mé ubohé střelené ptáče,
 
 _také ty najdeš svůj klid.  
 Dost toho sténání, dost toho pláče,  

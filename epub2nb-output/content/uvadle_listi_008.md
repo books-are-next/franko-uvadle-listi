@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "Nemám strach z\_Boha, nemám strach z\_běsů,"
+contentType: poetry
 ---
 
 <section>
-
-Nemám strach z Boha, nemám strach z běsů,
 
 _účet mé duše je dosud čistý;  
 Nemám strach z vlků z hlubokých lesů,  

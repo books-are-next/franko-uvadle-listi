@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "Jak zvíře v\_jařmu táhnu dál den ze dne"
+contentType: poetry
 ---
 
 <section>
-
-Jak zvíře v jařmu táhnu dál den ze dne
 
 _svůj těžký pluh až na konečnou mez;  
 řeřavím ohněm, který zvolna bledne,  

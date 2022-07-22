@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Dokud tě nevidím,
+contentType: poetry
 ---
 
 <section>
-
-Dokud tě nevidím,
 
 _je každý okamžik nesmírné břímě;  
 sotva tě uvidím,  

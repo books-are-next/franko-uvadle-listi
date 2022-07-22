@@ -1,0 +1,928 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Uvadlé listí",
+  "author": "Ivan Franko",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "franko-uvadle-listi-ae0b752",
+  "revision": "ae0b752",
+  "readingOrder": [
+    "promo.html",
+    "uvadle_listi_005.html",
+    "uvadle_listi_006.html",
+    "uvadle_listi_007.html",
+    "uvadle_listi_008.html",
+    "uvadle_listi_009.html",
+    "uvadle_listi_010.html",
+    "uvadle_listi_011.html",
+    "uvadle_listi_012.html",
+    "uvadle_listi_013.html",
+    "uvadle_listi_014.html",
+    "uvadle_listi_015.html",
+    "uvadle_listi_016.html",
+    "uvadle_listi_017.html",
+    "uvadle_listi_018.html",
+    "uvadle_listi_019.html",
+    "uvadle_listi_020.html",
+    "uvadle_listi_021.html",
+    "uvadle_listi_022.html",
+    "uvadle_listi_023.html",
+    "uvadle_listi_024.html",
+    "uvadle_listi_025.html",
+    "uvadle_listi_026.html",
+    "uvadle_listi_027.html",
+    "uvadle_listi_028.html",
+    "uvadle_listi_029.html",
+    "uvadle_listi_030.html",
+    "uvadle_listi_031.html",
+    "uvadle_listi_032.html",
+    "uvadle_listi_033.html",
+    "uvadle_listi_034.html",
+    "uvadle_listi_035.html",
+    "uvadle_listi_036.html",
+    "uvadle_listi_037.html",
+    "uvadle_listi_038.html",
+    "uvadle_listi_039.html",
+    "uvadle_listi_040.html",
+    "uvadle_listi_041.html",
+    "uvadle_listi_042.html",
+    "uvadle_listi_043.html",
+    "uvadle_listi_044.html",
+    "uvadle_listi_045.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Fri Jul 22 2022 08:39:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658479165197
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "uvadle_listi_005.html",
+      "toc": []
+    },
+    {
+      "title": "Uvadlé listí",
+      "file": "uvadle_listi_005.html",
+      "words": 6,
+      "chars": 32,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "uvadle_listi_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PRVNÍ HRST",
+      "file": "uvadle_listi_006.html",
+      "words": 3,
+      "chars": 19,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "uvadle_listi_005.html",
+      "next": "uvadle_listi_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PRVNÍ HRST",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Po dlouhém, tupém, tíživém spánku",
+      "file": "uvadle_listi_007.html",
+      "words": 85,
+      "chars": 461,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 3,
+      "prev": "uvadle_listi_006.html",
+      "next": "uvadle_listi_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Po dlouhém, tupém, tíživém spánku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nemám strach z Boha, nemám strach z běsů,",
+      "file": "uvadle_listi_008.html",
+      "words": 147,
+      "chars": 774,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 4,
+      "prev": "uvadle_listi_007.html",
+      "next": "uvadle_listi_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nemám strach z Boha, nemám strach z běsů,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Proč tě tak miluji, překrásná moje paní,",
+      "file": "uvadle_listi_009.html",
+      "words": 108,
+      "chars": 542,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 5,
+      "prev": "uvadle_listi_008.html",
+      "next": "uvadle_listi_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proč tě tak miluji, překrásná moje paní,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jednou jsme se znenadání",
+      "file": "uvadle_listi_010.html",
+      "words": 140,
+      "chars": 726,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 6,
+      "prev": "uvadle_listi_009.html",
+      "next": "uvadle_listi_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jednou jsme se znenadání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ano, tys jediná pravdivá láska moje,",
+      "file": "uvadle_listi_011.html",
+      "words": 102,
+      "chars": 553,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 7,
+      "prev": "uvadle_listi_010.html",
+      "next": "uvadle_listi_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ano, tys jediná pravdivá láska moje,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tvůj zrak je jako tiché moře",
+      "file": "uvadle_listi_012.html",
+      "words": 39,
+      "chars": 199,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 8,
+      "prev": "uvadle_listi_011.html",
+      "next": "uvadle_listi_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tvůj zrak je jako tiché moře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "„Vzdej se všech nadějí!“",
+      "file": "uvadle_listi_013.html",
+      "words": 250,
+      "chars": 1345,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 9,
+      "prev": "uvadle_listi_012.html",
+      "next": "uvadle_listi_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "„Vzdej se všech nadějí!“",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ty pole bez konce, ty pole bílé,",
+      "file": "uvadle_listi_014.html",
+      "words": 49,
+      "chars": 227,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 10,
+      "prev": "uvadle_listi_013.html",
+      "next": "uvadle_listi_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ty pole bez konce, ty pole bílé,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když mě potkáš na ulici,",
+      "file": "uvadle_listi_015.html",
+      "words": 121,
+      "chars": 571,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 11,
+      "prev": "uvadle_listi_014.html",
+      "next": "uvadle_listi_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když mě potkáš na ulici,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kolikrát se mi objevuje v snech,",
+      "file": "uvadle_listi_016.html",
+      "words": 98,
+      "chars": 502,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 12,
+      "prev": "uvadle_listi_015.html",
+      "next": "uvadle_listi_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kolikrát se mi objevuje v snech,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Neproklínal jsem tě, drahá,",
+      "file": "uvadle_listi_017.html",
+      "words": 94,
+      "chars": 486,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 13,
+      "prev": "uvadle_listi_016.html",
+      "next": "uvadle_listi_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Neproklínal jsem tě, drahá,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ach mé štěstí, nevyčítám ti to,",
+      "file": "uvadle_listi_018.html",
+      "words": 73,
+      "chars": 363,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 14,
+      "prev": "uvadle_listi_017.html",
+      "next": "uvadle_listi_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ach mé štěstí, nevyčítám ti to,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přízrak",
+      "file": "uvadle_listi_019.html",
+      "words": 505,
+      "chars": 2587,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 15,
+      "prev": "uvadle_listi_018.html",
+      "next": "uvadle_listi_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přízrak",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epilog",
+      "file": "uvadle_listi_020.html",
+      "words": 68,
+      "chars": 375,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 16,
+      "prev": "uvadle_listi_019.html",
+      "next": "uvadle_listi_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epilog",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DRUHÁ HRST",
+      "file": "uvadle_listi_021.html",
+      "words": 3,
+      "chars": 14,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 17,
+      "prev": "uvadle_listi_020.html",
+      "next": "uvadle_listi_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DRUHÁ HRST",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V Přemyšlu nad zeleným proudem Sanu",
+      "file": "uvadle_listi_022.html",
+      "words": 395,
+      "chars": 2093,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 18,
+      "prev": "uvadle_listi_021.html",
+      "next": "uvadle_listi_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V Přemyšlu nad zeleným proudem Sanu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poledne.",
+      "file": "uvadle_listi_023.html",
+      "words": 153,
+      "chars": 736,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 19,
+      "prev": "uvadle_listi_022.html",
+      "next": "uvadle_listi_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poledne.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozpučel javor, zelený javor,",
+      "file": "uvadle_listi_024.html",
+      "words": 95,
+      "chars": 525,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 20,
+      "prev": "uvadle_listi_023.html",
+      "next": "uvadle_listi_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozpučel javor, zelený javor,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hoj, ty mé děvčátko, jako květ prosté,",
+      "file": "uvadle_listi_025.html",
+      "words": 100,
+      "chars": 488,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 21,
+      "prev": "uvadle_listi_024.html",
+      "next": "uvadle_listi_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hoj, ty mé děvčátko, jako květ prosté,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kalinečko moje, proč se v háji skláníš,",
+      "file": "uvadle_listi_026.html",
+      "words": 115,
+      "chars": 580,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 22,
+      "prev": "uvadle_listi_025.html",
+      "next": "uvadle_listi_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kalinečko moje, proč se v háji skláníš,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doubečku, dube zelenavý,",
+      "file": "uvadle_listi_027.html",
+      "words": 96,
+      "chars": 532,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 23,
+      "prev": "uvadle_listi_026.html",
+      "next": "uvadle_listi_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doubečku, dube zelenavý,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ach ty žale, žale,",
+      "file": "uvadle_listi_028.html",
+      "words": 78,
+      "chars": 395,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 24,
+      "prev": "uvadle_listi_027.html",
+      "next": "uvadle_listi_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ach ty žale, žale,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pročpak se nesměješ nikdy?",
+      "file": "uvadle_listi_029.html",
+      "words": 55,
+      "chars": 293,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 25,
+      "prev": "uvadle_listi_028.html",
+      "next": "uvadle_listi_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pročpak se nesměješ nikdy?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ve vlaku",
+      "file": "uvadle_listi_030.html",
+      "words": 75,
+      "chars": 378,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 26,
+      "prev": "uvadle_listi_029.html",
+      "next": "uvadle_listi_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ve vlaku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Smějte se mi, věčné hvězdy!",
+      "file": "uvadle_listi_031.html",
+      "words": 56,
+      "chars": 291,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 27,
+      "prev": "uvadle_listi_030.html",
+      "next": "uvadle_listi_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Smějte se mi, věčné hvězdy!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dokud tě nevidím,",
+      "file": "uvadle_listi_032.html",
+      "words": 77,
+      "chars": 409,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 28,
+      "prev": "uvadle_listi_031.html",
+      "next": "uvadle_listi_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dokud tě nevidím,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Až někdy za noci uslyšíš pod okny",
+      "file": "uvadle_listi_033.html",
+      "words": 55,
+      "chars": 290,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 29,
+      "prev": "uvadle_listi_032.html",
+      "next": "uvadle_listi_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Až někdy za noci uslyšíš pod okny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak zvíře v jařmu táhnu dál den ze dne",
+      "file": "uvadle_listi_034.html",
+      "words": 77,
+      "chars": 410,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 30,
+      "prev": "uvadle_listi_033.html",
+      "next": "uvadle_listi_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak zvíře v jařmu táhnu dál den ze dne",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Padá, padá, padá sníh.",
+      "file": "uvadle_listi_035.html",
+      "words": 65,
+      "chars": 371,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 31,
+      "prev": "uvadle_listi_034.html",
+      "next": "uvadle_listi_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Padá, padá, padá sníh.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TŘETÍ HRST",
+      "file": "uvadle_listi_036.html",
+      "words": 3,
+      "chars": 14,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 32,
+      "prev": "uvadle_listi_035.html",
+      "next": "uvadle_listi_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TŘETÍ HRST",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když vodu přikryjí ledy,",
+      "file": "uvadle_listi_037.html",
+      "words": 59,
+      "chars": 298,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 33,
+      "prev": "uvadle_listi_036.html",
+      "next": "uvadle_listi_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když vodu přikryjí ledy,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matičko moje milovaná!",
+      "file": "uvadle_listi_038.html",
+      "words": 217,
+      "chars": 1184,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 34,
+      "prev": "uvadle_listi_037.html",
+      "next": "uvadle_listi_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Matičko moje milovaná!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Písni, mé ubohé střelené ptáče,",
+      "file": "uvadle_listi_039.html",
+      "words": 69,
+      "chars": 350,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 35,
+      "prev": "uvadle_listi_038.html",
+      "next": "uvadle_listi_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Písni, mé ubohé střelené ptáče,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Buď sbohem též. Už nikdy víc",
+      "file": "uvadle_listi_040.html",
+      "words": 84,
+      "chars": 427,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 36,
+      "prev": "uvadle_listi_039.html",
+      "next": "uvadle_listi_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Buď sbohem též. Už nikdy víc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dost, písni, dost! Už nemáš sil",
+      "file": "uvadle_listi_041.html",
+      "words": 74,
+      "chars": 379,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 37,
+      "prev": "uvadle_listi_040.html",
+      "next": "uvadle_listi_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dost, písni, dost! Už nemáš sil",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Duše je nesmrtelná! Žije věčně!",
+      "file": "uvadle_listi_042.html",
+      "words": 362,
+      "chars": 1890,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 38,
+      "prev": "uvadle_listi_041.html",
+      "next": "uvadle_listi_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Duše je nesmrtelná! Žije věčně!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Taková malá, drobná věc,",
+      "file": "uvadle_listi_043.html",
+      "words": 118,
+      "chars": 602,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 39,
+      "prev": "uvadle_listi_042.html",
+      "next": "uvadle_listi_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Taková malá, drobná věc,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "uvadle_listi_044.html",
+      "words": 127,
+      "chars": 817,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 40,
+      "prev": "uvadle_listi_043.html",
+      "next": "uvadle_listi_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Uvadlé listí",
+      "file": "uvadle_listi_045.html",
+      "words": 52,
+      "chars": 359,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 41,
+      "prev": "uvadle_listi_044.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 100,
+      "chars": 681,
+      "ideas": 8,
+      "role": "about",
+      "order": null,
+      "prev": "uvadle_listi_045.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 4654,
+      "chars": 24600,
+      "ideas": 818
+    },
+    "chapters": {
+      "words": 4548,
+      "chars": 23887,
+      "ideas": 806
+    }
+  }
+}

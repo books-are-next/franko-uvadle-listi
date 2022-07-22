@@ -1,6 +1,6 @@
 ---
 title: TŘETÍ HRST
-contentType: prose
+contentType: poetry
 ---
 
 <section>

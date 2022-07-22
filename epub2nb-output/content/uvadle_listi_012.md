@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Tvůj zrak je jako tiché moře
+contentType: poetry
 ---
 
 <section>
-
-Tvůj zrak je jako tiché moře
 
 _se světélky na vlnách:  
 mého srdce dávné hoře  

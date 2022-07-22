@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Ano, tys jediná pravdivá láska moje,
+contentType: poetry
 ---
 
 <section>
-
-Ano, tys jediná pravdivá láska moje,
 
 _ta, jež se v životě nemůže naplnit.  
 Tys nejtajnější vzruch, který mi bez pokoje  

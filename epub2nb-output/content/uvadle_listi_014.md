@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Ty pole bez konce, ty pole bílé,
+contentType: poetry
 ---
 
 <section>
-
-Ty pole bez konce, ty pole bílé,
 
 _pusť mne svou svobodnou dálí!  
 Jedu sám, já a kůň, sněhem už míle  

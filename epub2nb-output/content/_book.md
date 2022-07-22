@@ -2,19 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Uvadlé listí
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Ivan Franko
   publisher: Městská knihovna v Praze
   modified: '2021-05-31T00:00:00.000Z'
+  contentType: poetry
+  publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
-  - uvadle_listi_001.html
-  - uvadle_listi_002.html
-  - uvadle_listi_003.html
-  - uvadle_listi_004.html
   - uvadle_listi_005.html
   - uvadle_listi_006.html
   - uvadle_listi_007.html
@@ -56,10 +56,39 @@ readingOrder:
   - uvadle_listi_043.html
   - uvadle_listi_044.html
   - uvadle_listi_045.html
+  - about.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: uvadle_listi_005.html
+        title: Věnování
+        hiddenTitle: true
+      - link: uvadle_listi_006.html
+        title: PRVNÍ HRST
+        hiddenTitle: false
+      - link: uvadle_listi_013.html
+        title: „Vzdej se všech nadějí!“
+        hiddenTitle: false
+      - link: uvadle_listi_019.html
+        title: Přízrak
+        hiddenTitle: false
+      - link: uvadle_listi_020.html
+        title: Epilog
+        hiddenTitle: false
+      - link: uvadle_listi_021.html
+        title: DRUHÁ HRST
+        hiddenTitle: false
+      - link: uvadle_listi_030.html
+        title: Ve vlaku
+        hiddenTitle: false
+      - link: uvadle_listi_036.html
+        title: TŘETÍ HRST
+        hiddenTitle: false
+      - link: uvadle_listi_044.html
+        title: Ediční poznámka
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

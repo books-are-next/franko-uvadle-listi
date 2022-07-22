@@ -1,6 +1,6 @@
 ---
 title: Přízrak
-contentType: prose
+contentType: poetry
 ---
 
 <section>

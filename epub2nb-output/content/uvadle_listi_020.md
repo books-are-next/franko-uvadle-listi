@@ -1,6 +1,6 @@
 ---
 title: Epilog
-contentType: prose
+contentType: poetry
 ---
 
 <section>

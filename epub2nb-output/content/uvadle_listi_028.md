@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Ach ty žale, žale,
+contentType: poetry
 ---
 
 <section>
-
-Ach ty žale, žale,
 
 _stále tíž tě cítím!  
 Pustil jsem svou holubičku,  

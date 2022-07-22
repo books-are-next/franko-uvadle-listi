@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Matičko moje milovaná!
+contentType: poetry
 ---
 
 <section>
-
-Matičko moje milovaná!
 
 _V nešťastný čas, v neblahou hodinu  
 přivedla jsi mě na tento svět!_

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Pročpak se nesměješ nikdy?
+contentType: poetry
 ---
 
 <section>
-
-Pročpak se nesměješ nikdy?
 
 _Máš v srdci zimu a mráz?  
 Zmrazilo hoře tvou duši,  

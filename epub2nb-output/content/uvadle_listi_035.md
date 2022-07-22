@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Padá, padá, padá sníh\.
+contentType: poetry
 ---
 
 <section>
-
-Padá, padá, padá sníh.
 
 _Ze studené tůně nebe  
 v myriádách slétají  

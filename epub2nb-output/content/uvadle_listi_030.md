@@ -1,6 +1,6 @@
 ---
 title: Ve vlaku
-contentType: prose
+contentType: poetry
 ---
 
 <section>
