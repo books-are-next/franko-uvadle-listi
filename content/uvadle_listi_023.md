@@ -8,51 +8,51 @@ contentType: poetry
 
 _Poledne._
 
-_Pusto, kam oko dohlédne.  
+Pusto, kam oko dohlédne.  
 Kolkolem pro sluch, pro pohled  
 ani sled.  
 Nevidět jedné živé duše…  
 Jen moře trávy vlní se tu,  
 zelené, pestré, plné květů,  
-a v trávě cvrčci drnčí hluše._
+a v trávě cvrčci drnčí hluše.
 
 </section>
 
 <section>
 
-_Dál a dál  
+Dál a dál  
 přes bystřinu a přes úval  
 až tam k těm modrým hřbetům hor  
 na obzor  
 letí můj zrak a tone v tiši.  
 A z plných plic ty vůně dýši  
 a cítím, jak se v duši tiší  
-starý spor._
+starý spor.
 
 </section>
 
 <section>
 
-_Vtom však — slyš!  
+Vtom však — slyš!  
 Co to je za tlumené štkaní,  
 co to zní vzduchem za vzdychání  
 blíž a blíž?  
 Je to snad vlastní hoře moje?  
 Zní to mé srdce bez pokoje?  
 Ach ne! To jenom kdesi v dálce  
-začal hrát někdo na píšťalce._
+začal hrát někdo na píšťalce.
 
 </section>
 
 <section>
 
-_Na ten hlas  
+Na ten hlas  
 mé srdce rázem vzbudilo se zas  
 a prostřed toho ráje tiše štkalo  
 beze slov.  
 To na tebe, má hvězdo, vzpomínalo.  
 A k prosté písni na píšťale  
 se přidal zlehka v tiché škále  
-pláč mých strof._
+pláč mých strof.
 
 </section>

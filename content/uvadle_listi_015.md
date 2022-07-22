@@ -8,53 +8,53 @@ contentType: poetry
 
 _Když mě potkáš na ulici,_
 
-_vyhneš se mi oklikou.  
+vyhneš se mi oklikou.  
 A je dobře! Osud nechtěl,  
-abychom šli žitím v dvou._
+abychom šli žitím v dvou.
 
 </section>
 
 <section>
 
-_Dej se vpravo a já vlevo  
+Dej se vpravo a já vlevo  
 půjdu zase stezkou v tmě.  
 A víc se už nesetkáme —  
-jak dvě kapky v hlubině._
+jak dvě kapky v hlubině.
 
 </section>
 
 <section>
 
-_A když cestou potkám hoře,  
+A když cestou potkám hoře,  
 které nese tobě kříž,  
 já to hoře pozvu k sobě  
-a sám přijmu jeho tíž._
+a sám přijmu jeho tíž.
 
 </section>
 
 <section>
 
-_A když někdy by snad štěstí  
+A když někdy by snad štěstí  
 chtělo ke mně zavítat,  
 já je pošlu, nechať letí  
-jak ten holub do tvých vrat._
+jak ten holub do tvých vrat.
 
 </section>
 
 <section>
 
-_Bez tebe — co je to štěstí?  
+Bez tebe — co je to štěstí?  
 Prázdné slovo, mámení!  
 Bez tebe, co je to hoře?  
-Dým po zhaslém plameni!_
+Dým po zhaslém plameni!
 
 </section>
 
 <section>
 
-_Jako kapka v oceáně  
+Jako kapka v oceáně  
 rozliji se, potopím.  
 Ty, má paní, kráčej v slunci  
-a já — klesnu do hlubin._
+a já — klesnu do hlubin.
 
 </section>

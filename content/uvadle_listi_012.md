@@ -8,17 +8,17 @@ contentType: poetry
 
 _Tvůj zrak je jako tiché moře_
 
-_se světélky na vlnách:  
+se světélky na vlnách:  
 mého srdce dávné hoře  
-tone v něm jak smítko, prach._
+tone v něm jak smítko, prach.
 
 </section>
 
 <section>
 
-_Tvůj zrak je jak čistá studna  
+Tvůj zrak je jak čistá studna  
 s perleťově jasným dnem:  
 naděje jak hvězda u dna  
-probleskuje tiše v něm._
+probleskuje tiše v něm.
 
 </section>

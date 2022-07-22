@@ -8,69 +8,69 @@ contentType: poetry
 
 _Doubečku, dube zelenavý,_
 
-_od čeho jsi tak kadeřavý?_
+od čeho jsi tak kadeřavý?
 
 </section>
 
 <section>
 
-_Kadeřavý jsem od haluzí,  
-podemlely mě drobné slzy._
+Kadeřavý jsem od haluzí,  
+podemlely mě drobné slzy.
 
 </section>
 
 <section>
 
-_Kadeřavý jsem od zlých nocí,  
-poranily mě černé oči._
+Kadeřavý jsem od zlých nocí,  
+poranily mě černé oči.
 
 </section>
 
 <section>
 
-_Ty černé oči, krásné líce,  
-ta pyšná řeč a plískanice._
+Ty černé oči, krásné líce,  
+ta pyšná řeč a plískanice.
 
 </section>
 
 <section>
 
-_Ta pyšná řeč je nepohoda,  
-ta rozluka — žal, který bodá._
+Ta pyšná řeč je nepohoda,  
+ta rozluka — žal, který bodá.
 
 </section>
 
 <section>
 
-_Už moje srdce schne a chřadne,  
-už moje krása vadne, vadne._
+Už moje srdce schne a chřadne,  
+už moje krása vadne, vadne.
 
 </section>
 
 <section>
 
-_Už moje síla slábne, hyne,  
-už sotva spatřím jaro jiné._
+Už moje síla slábne, hyne,  
+už sotva spatřím jaro jiné.
 
 </section>
 
 <section>
 
-_Uvadlé listí padá, padá,  
-a já též padnu jak ta kláda._
+Uvadlé listí padá, padá,  
+a já též padnu jak ta kláda.
 
 </section>
 
 <section>
 
-_Zbytek mé krásy, zbytek síly  
-rozřežou chvatně ostré pily._
+Zbytek mé krásy, zbytek síly  
+rozřežou chvatně ostré pily.
 
 </section>
 
 <section>
 
-_Přeostré pily lidské zlosti,  
-zdupe je svět svou lhostejností._
+Přeostré pily lidské zlosti,  
+zdupe je svět svou lhostejností.
 
 </section>

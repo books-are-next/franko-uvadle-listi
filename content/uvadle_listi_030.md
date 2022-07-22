@@ -5,36 +5,36 @@ contentType: poetry
 
 <section>
 
-_Bez cíle, jak vyděšená  
+Bez cíle, jak vyděšená  
 pod nohama běží mi  
 černá zem a sloupy, stromy  
-letí za ní v hloubi tmy._
+letí za ní v hloubi tmy.
 
 </section>
 
 <section>
 
-_Jako plátno, které vleče  
+Jako plátno, které vleče  
 po krajině obří pěst,  
 utíkají pole, sady,  
-pole, sady podle cest._
+pole, sady podle cest.
 
 </section>
 
 <section>
 
-_Jenom já a tamty hvězdy,  
+Jenom já a tamty hvězdy,  
 které vidím prosvítat,  
 stojíme, snad jako důkaz,  
-že je v světě stálost, řád._
+že je v světě stálost, řád.
 
 </section>
 
 <section>
 
-_A ty hvězdy jako by se  
+A ty hvězdy jako by se  
 ironicky začly smát:  
 „My a ty, viď, jaký důkaz,  
-že je v světě stálost, řád!“_
+že je v světě stálost, řád!“
 
 </section>

@@ -8,44 +8,44 @@ contentType: poetry
 
 _Ach ty žale, žale,_
 
-_stále tíž tě cítím!  
+stále tíž tě cítím!  
 Pustil jsem svou holubičku,  
-už ji nezachytím!_
+už ji nezachytím!
 
 </section>
 
 <section>
 
-_Když tu byla blízko,  
+Když tu byla blízko,  
 já ji nepřilákal,  
 a teď abych bez ustání  
-v hloubi srdce plakal._
+v hloubi srdce plakal.
 
 </section>
 
 <section>
 
-_Když tu byla blízko,  
+Když tu byla blízko,  
 já ji nechtěl lekat,  
 ale že tak brzy prchne,  
-kdo to mohl čekat?_
+kdo to mohl čekat?
 
 </section>
 
 <section>
 
-_A když nenávratně,  
+A když nenávratně,  
 navždy uletěla,  
 odnesla mi, vzala s sebou  
-i mou duši z těla._
+i mou duši z těla.
 
 </section>
 
 <section>
 
-_Vzala moje snění,  
+Vzala moje snění,  
 naděje a štěstí,  
 tak jak bere s sebou jaro  
-kvítí kolem cesty._
+kvítí kolem cesty.
 
 </section>

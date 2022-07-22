@@ -8,35 +8,35 @@ contentType: poetry
 
 _Padá, padá, padá sníh._
 
-_Ze studené tůně nebe  
+Ze studené tůně nebe  
 v myriádách slétají  
-motýlkové, z nichž to zebe,_
+motýlkové, z nichž to zebe,
 
 </section>
 
 <section>
 
-_jednotvární jako žal,  
+jednotvární jako žal,  
 mraziví jak špatný osud;  
 postýlají pole, háj,  
-všechno to, co žilo dosud._
+všechno to, co žilo dosud.
 
 </section>
 
 <section>
 
-_Bílý plášť, plášť mlčení,  
+Bílý plášť, plášť mlčení,  
 umrtvení, zapomnění,  
 přikryl vše a svírá vše  
-po nejhlubší kořen v zemi._
+po nejhlubší kořen v zemi.
 
 </section>
 
 <section>
 
-_Padá, padá, padá sníh.  
+Padá, padá, padá sníh.  
 Plášť je těžší než ta hlína…  
 Mladý oheň v smutné duši  
-bliká, slábne, dohasíná._
+bliká, slábne, dohasíná.
 
 </section>

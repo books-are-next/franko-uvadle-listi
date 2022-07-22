@@ -8,35 +8,35 @@ contentType: poetry
 
 _Po dlouhém, tupém, tíživém spánku_
 
-_zas tryská píseň jako proud,  
+zas tryská píseň jako proud,  
 jako když začne z popela oheň  
-jazyky znovu prudce dout._
+jazyky znovu prudce dout.
 
 </section>
 
 <section>
 
-_To, co se zdálo štěstím a klidem,  
+To, co se zdálo štěstím a klidem,  
 je teplá vrstva popela;  
 ta živá jiskra lačnící lásky  
-nezhasla v něm však docela._
+nezhasla v něm však docela.
 
 </section>
 
 <section>
 
-_Nezhasla dosud: tlela a žhnula  
+Nezhasla dosud: tlela a žhnula  
 navzdory dešti všech mých slz;  
 teď vítr vlétl a popel smetl,  
-teď už ten oheň navždy zdus!_
+teď už ten oheň navždy zdus!
 
 </section>
 
 <section>
 
-_Ne, ještě počkej! Ještě ho nedus!  
+Ne, ještě počkej! Ještě ho nedus!  
 Nech dál ten hříšný oheň dout!  
 Ať srdce hyne, ať volně plyne  
-bouřlivá píseň jako proud!_
+bouřlivá píseň jako proud!
 
 </section>

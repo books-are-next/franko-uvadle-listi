@@ -8,33 +8,33 @@ contentType: poetry
 
 _Ano, tys jediná pravdivá láska moje,_
 
-_ta, jež se v životě nemůže naplnit.  
+ta, jež se v životě nemůže naplnit.  
 Tys nejtajnější vzruch, který mi bez pokoje  
-vždy těžce vzdouvá hruď a nesmí najít lid._
+vždy těžce vzdouvá hruď a nesmí najít lid.
 
 </section>
 
 <section>
 
-_Tys nejkrásnější zpěv, který se jenom zdává  
+Tys nejkrásnější zpěv, který se jenom zdává  
 a který pro sebe dosud slov nenašel.  
 Ty jsi ten velký čin, ty jsi ta velká sláva,  
-o kterou bych se bil, kdybych dost víry měl._
+o kterou bych se bil, kdybych dost víry měl.
 
 </section>
 
 <section>
 
-_Jak lásku zmarněnou, jak touhu bez odvety,  
+Jak lásku zmarněnou, jak touhu bez odvety,  
 jak zpěv, jenž nedozněl, jak heroické vzněty,  
-jako to nejvyšší, co duši napájí,_
+jako to nejvyšší, co duši napájí,
 
 </section>
 
 <section>
 
-_jak žár, jenž ohřívá a také upaluje,  
+jak žár, jenž ohřívá a také upaluje,  
 jak smrt, jež zabíjí i muka ukracuje,  
-tak, moje krásko, též já tebe miluji._
+tak, moje krásko, též já tebe miluji.
 
 </section>
