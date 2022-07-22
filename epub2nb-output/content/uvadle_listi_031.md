@@ -8,26 +8,26 @@ contentType: poetry
 
 _Smějte se mi, věčné hvězdy!_
 
-_Vždyť jsem troska, červíček!  
+Vždyť jsem troska, červíček!  
 Moje srdce a mé smysly  
-nedovedou najít lék._
+nedovedou najít lék.
 
 </section>
 
 <section>
 
-_Rozervaný v hloubi duše,  
+Rozervaný v hloubi duše,  
 bojím se i přemýšlet…  
 Smějte se mi, věčné hvězdy!  
-Vždyť jsem slaboch, sketa sket!_
+Vždyť jsem slaboch, sketa sket!
 
 </section>
 
 <section>
 
-_Utíkám až za to moře  
+Utíkám až za to moře  
 před sebou, leč — uteču?  
 Ne, jsem vězeň a své hoře  
-i tam s sebou povleču._
+i tam s sebou povleču.
 
 </section>

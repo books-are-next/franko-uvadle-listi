@@ -5,27 +5,27 @@ contentType: poetry
 
 <section>
 
-_Rozleť se ve větru, uvadlé listí,  
+Rozleť se ve větru, uvadlé listí,  
 rozleť se jako ty steny.  
 Mé žaly neztichly, moje krev prýští,  
-má láska živa už není._
+má láska živa už není.
 
 </section>
 
 <section>
 
-_Kdo může rozpoznat v uvadlém listí  
+Kdo může rozpoznat v uvadlém listí  
 nádheru zelených sadů?  
 A kdo z mých ubohých veršíků zjistí,  
-co do nich za poklad kladu?_
+co do nich za poklad kladu?
 
 </section>
 
 <section>
 
-_Že však jsem nejlepší poklad svých citů  
+Že však jsem nejlepší poklad svých citů  
 roztratil v bezcílném shonu,  
 jako ten žebrák teď půjdu sám, v skrytu,  
-vstříc svému smutnému skonu._
+vstříc svému smutnému skonu.
 
 </section>

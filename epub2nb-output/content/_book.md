@@ -108,7 +108,7 @@ tocBase:
           - link: uvadle_listi_020.html
             title: Epilog
             hiddenTitle: false
-        listType: bulleted
+        listType: plain
       - link: uvadle_listi_021.html
         title: DRUHÁ HRST
         hiddenTitle: false
@@ -155,7 +155,7 @@ tocBase:
           - link: uvadle_listi_035.html
             title: Padá, padá, padá sníh ...
             hiddenTitle: true
-        listType: bulleted
+        listType: plain
       - link: uvadle_listi_036.html
         title: TŘETÍ HRST
         hiddenTitle: false
@@ -181,7 +181,7 @@ tocBase:
           - link: uvadle_listi_043.html
             title: Taková malá, drobná věc ...
             hiddenTitle: true
-        listType: bulleted
+        listType: plain
       - link: uvadle_listi_044.html
         title: Ediční poznámka
         hiddenTitle: false

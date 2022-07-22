@@ -8,17 +8,17 @@ contentType: poetry
 
 _Ty pole bez konce, ty pole bílé,_
 
-_pusť mne svou svobodnou dálí!  
+pusť mne svou svobodnou dálí!  
 Jedu sám, já a kůň, sněhem už míle  
-a srdce puká a pálí._
+a srdce puká a pálí.
 
 </section>
 
 <section>
 
-_Nes mne, můj koníčku, po širém poli  
+Nes mne, můj koníčku, po širém poli  
 jako ten vichr, co hučí,  
 a já snad uteču tomu, co bolí,  
-co moje srdce tak mučí._
+co moje srdce tak mučí.
 
 </section>

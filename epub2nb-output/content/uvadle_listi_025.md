@@ -8,48 +8,48 @@ contentType: poetry
 
 _Hoj, ty mé děvčátko, jako květ prosté,_
 
-_proč je tvé srdce jak ten trn ostré?_
+proč je tvé srdce jak ten trn ostré?
 
 </section>
 
 <section>
 
-_Proč jsou tvá ústečka jak tichá voda  
-a proč tvé slovo jako nůž bodá?_
+Proč jsou tvá ústečka jak tichá voda  
+a proč tvé slovo jako nůž bodá?
 
 </section>
 
 <section>
 
-_Proč se tvé oči čarovně třpytí,  
-tak že se srdce jako vích vznítí?_
+Proč se tvé oči čarovně třpytí,  
+tak že se srdce jako vích vznítí?
 
 </section>
 
 <section>
 
-_Ach, ty tvé oči, kdo do nich zhlédne,  
-ten ani k slunci už zrak nepozvedne._
+Ach, ty tvé oči, kdo do nich zhlédne,  
+ten ani k slunci už zrak nepozvedne.
 
 </section>
 
 <section>
 
-_Proč mě tvé úsměvy vždycky jen bolí,  
-proč mi rvou srdce jak bouře v poli?_
+Proč mě tvé úsměvy vždycky jen bolí,  
+proč mi rvou srdce jak bouře v poli?
 
 </section>
 
 <section>
 
-_Hoj, ty mé děvčátko, jasné jak zoře,  
-tys moje štěstí, tys moje hoře._
+Hoj, ty mé děvčátko, jasné jak zoře,  
+tys moje štěstí, tys moje hoře.
 
 </section>
 
 <section>
 
-_Když na tě pohledím, rád tě mít musím,  
-a když tě miluji, žalem se dusím._
+Když na tě pohledím, rád tě mít musím,  
+a když tě miluji, žalem se dusím.
 
 </section>

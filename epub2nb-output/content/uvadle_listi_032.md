@@ -8,35 +8,35 @@ contentType: poetry
 
 _Dokud tě nevidím,_
 
-_je každý okamžik nesmírné břímě;  
+je každý okamžik nesmírné břímě;  
 sotva tě uvidím,  
-v srdci se probouzí rána, jež dříme._
+v srdci se probouzí rána, jež dříme.
 
 </section>
 
 <section>
 
-_Dokud tě nevidím,  
+Dokud tě nevidím,  
 je kolem dokola temno a zima;  
 sotva tě uvidím,  
-palčivá horečka mé srdce jímá._
+palčivá horečka mé srdce jímá.
 
 </section>
 
 <section>
 
-_Abych tě uviděl,  
+Abych tě uviděl,  
 letím jak unášen v andělských rukách;  
 když jsem tě uviděl,  
-prchám jak vyhnanec v pekelných mukách._
+prchám jak vyhnanec v pekelných mukách.
 
 </section>
 
 <section>
 
-_Bez tebe nemám klid,  
+Bez tebe nemám klid,  
 u tebe také ne, světlo mé duše;  
 zem si mě nechce vzít —  
-a nebe navěky zamklo se hluše!_
+a nebe navěky zamklo se hluše!
 
 </section>

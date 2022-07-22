@@ -27,7 +27,7 @@
       "figure": "MLP.obrazky.*\nmlpobrazky",
       "centered": ".*uprostred.*",
       "verse": "MLP.verse.*",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei\nPRVNI_VERS_DO_OBSAHU",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei\nPRVNI_VERS_DO_OBSAHU",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
       "ignore": ""
@@ -104,7 +104,7 @@
             "xhtml": "uvadle_listi_006.xhtml",
             "id": 5,
             "role": "chapter",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -121,8 +121,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Po dlouhém, tupém, tíživém spánku ..."
+                "title": "Po dlouhém, tupém, tíživém spánku ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_008.md",
@@ -134,8 +134,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Nemám strach z Boha, nemám strach z běsů ..."
+                "title": "Nemám strach z Boha, nemám strach z běsů ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_009.md",
@@ -147,8 +147,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Proč tě tak miluji, překrásná moje paní ..."
+                "title": "Proč tě tak miluji, překrásná moje paní ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_010.md",
@@ -160,8 +160,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Jednou jsme se znenadání ..."
+                "title": "Jednou jsme se znenadání ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_011.md",
@@ -173,8 +173,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Ano, tys jediná pravdivá láska moje ..."
+                "title": "Ano, tys jediná pravdivá láska moje ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_012.md",
@@ -186,8 +186,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Tvůj zrak je jako tiché moře ..."
+                "title": "Tvůj zrak je jako tiché moře ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_013.md",
@@ -212,8 +212,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Ty pole bez konce, ty pole bílé ..."
+                "title": "Ty pole bez konce, ty pole bílé ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_015.md",
@@ -225,8 +225,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Když mě potkáš na ulici ..."
+                "title": "Když mě potkáš na ulici ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_016.md",
@@ -238,8 +238,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Kolikrát se mi objevuje v snech ..."
+                "title": "Kolikrát se mi objevuje v snech ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_017.md",
@@ -251,8 +251,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Neproklínal jsem tě, drahá ..."
+                "title": "Neproklínal jsem tě, drahá ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_018.md",
@@ -264,8 +264,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Ach mé štěstí, nevyčítám ti to ..."
+                "title": "Ach mé štěstí, nevyčítám ti to ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_019.md",
@@ -300,7 +300,7 @@
             "xhtml": "uvadle_listi_021.xhtml",
             "id": 20,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -317,8 +317,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "V Přemyšlu nad zeleným proudem Sanu ..."
+                "title": "V Přemyšlu nad zeleným proudem Sanu ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_023.md",
@@ -330,8 +330,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Poledne."
+                "title": "Poledne.",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_024.md",
@@ -343,8 +343,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Rozpučel javor, zelený javor ..."
+                "title": "Rozpučel javor, zelený javor ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_025.md",
@@ -356,8 +356,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Hoj, ty mé děvčátko, jako květ prosté ..."
+                "title": "Hoj, ty mé děvčátko, jako květ prosté ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_026.md",
@@ -369,8 +369,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Kalinečko moje, proč se v háji skláníš ..."
+                "title": "Kalinečko moje, proč se v háji skláníš ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_027.md",
@@ -382,8 +382,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Doubečku, dube zelenavý ..."
+                "title": "Doubečku, dube zelenavý ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_028.md",
@@ -395,8 +395,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Ach ty žale, žale ..."
+                "title": "Ach ty žale, žale ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_029.md",
@@ -408,8 +408,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Pročpak se nesměješ nikdy ..."
+                "title": "Pročpak se nesměješ nikdy ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_030.md",
@@ -434,8 +434,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Smějte se mi, věčné hvězdy ..."
+                "title": "Smějte se mi, věčné hvězdy ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_032.md",
@@ -447,8 +447,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Dokud tě nevidím ..."
+                "title": "Dokud tě nevidím ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_033.md",
@@ -460,8 +460,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Až někdy za noci uslyšíš pod okny ..."
+                "title": "Až někdy za noci uslyšíš pod okny ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_034.md",
@@ -473,8 +473,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Jak zvíře v jařmu táhnu dál den ze dne ..."
+                "title": "Jak zvíře v jařmu táhnu dál den ze dne ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_035.md",
@@ -486,8 +486,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Padá, padá, padá sníh ..."
+                "title": "Padá, padá, padá sníh ...",
+                "children": []
               }
             ]
           },
@@ -496,7 +496,7 @@
             "xhtml": "uvadle_listi_036.xhtml",
             "id": 35,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -513,8 +513,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Když vodu přikryjí ledy ..."
+                "title": "Když vodu přikryjí ledy ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_038.md",
@@ -526,8 +526,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Matičko moje milovaná ..."
+                "title": "Matičko moje milovaná ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_039.md",
@@ -539,8 +539,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Písni, mé ubohé střelené ptáče ..."
+                "title": "Písni, mé ubohé střelené ptáče ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_040.md",
@@ -552,8 +552,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Buď sbohem též. Už nikdy víc ..."
+                "title": "Buď sbohem též. Už nikdy víc ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_041.md",
@@ -565,8 +565,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Dost, písni, dost! Už nemáš sil ..."
+                "title": "Dost, písni, dost! Už nemáš sil ...",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_042.md",
@@ -578,8 +578,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Duše je nesmrtelná! Žije věčně!"
+                "title": "Duše je nesmrtelná! Žije věčně!",
+                "children": []
               },
               {
                 "filename": "uvadle_listi_043.md",
@@ -591,8 +591,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Taková malá, drobná věc ..."
+                "title": "Taková malá, drobná věc ...",
+                "children": []
               }
             ]
           },
@@ -971,6 +971,6 @@
       "user": "books-are-next",
       "repo": "franko-uvadle-listi"
     },
-    "generatedAt": 1658480426375
+    "generatedAt": 1658480871057
   }
 }

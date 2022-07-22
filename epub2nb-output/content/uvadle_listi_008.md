@@ -8,53 +8,53 @@ contentType: poetry
 
 _Nemám strach z Boha, nemám strach z běsů,_
 
-_účet mé duše je dosud čistý;  
+účet mé duše je dosud čistý;  
 Nemám strach z vlků z hlubokých lesů,  
-ač nejsem v střelbě kdovíjak jistý._
+ač nejsem v střelbě kdovíjak jistý.
 
 </section>
 
 <section>
 
-_Nemám strach z králů vládnoucích meči,  
+Nemám strach z králů vládnoucích meči,  
 třebaže mají vojska a děla;  
 nemám strach z lidských pomluv a řečí,  
-ač někdy vyrvou i duši z těla._
+ač někdy vyrvou i duši z těla.
 
 </section>
 
 <section>
 
-_A tvého hněvu, má holubičko,  
+A tvého hněvu, má holubičko,  
 toho se věru nelekám taky:  
 miluji tvoje ruměné líčko  
-i tvoje hněvně jiskřící zraky._
+i tvoje hněvně jiskřící zraky.
 
 </section>
 
 <section>
 
-_Ale když stesk a smutek jak mračno  
+Ale když stesk a smutek jak mračno  
 ulehnou na ty překrásné líce,  
 když se tvá drobná ústečka začnou  
-bolestně svírat a žalně chvít se,_
+bolestně svírat a žalně chvít se,
 
 </section>
 
 <section>
 
-_když ti tak vzlykne výčitka v hlase,  
+když ti tak vzlykne výčitka v hlase,  
 když ti tak klesnou bez vlády ruce,  
 když pohled plný zoufalství zase  
-jako by prosil o pomoc v muce,_
+jako by prosil o pomoc v muce,
 
 </section>
 
 <section>
 
-_tu mě vždy sevře u srdce kdesi  
+tu mě vždy sevře u srdce kdesi  
 do kleští úzkost, strach, který zebe:  
 ta němá bolest, ta mě víc děsí  
-než všechny hromy a blesky nebe._
+než všechny hromy a blesky nebe.
 
 </section>
