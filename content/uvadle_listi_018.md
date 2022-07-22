@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Ach mé štěstí, nevyčítám ti to,
+contentType: poetry
 ---
 
 <section>
-
-Ach mé štěstí, nevyčítám ti to,
 
 _jako matka vedlo jsi mě v žití.  
 Má-li pole rodit dobré žito,  

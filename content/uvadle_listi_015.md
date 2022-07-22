@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Když mě potkáš na ulici,
+contentType: poetry
 ---
 
 <section>
-
-Když mě potkáš na ulici,
 
 _vyhneš se mi oklikou.  
 A je dobře! Osud nechtěl,  

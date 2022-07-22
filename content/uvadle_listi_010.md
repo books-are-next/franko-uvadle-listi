@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Jednou jsme se znenadání
+contentType: poetry
 ---
 
 <section>
-
-Jednou jsme se znenadání
 
 _kdesi sešli náhodou.  
 Mluvili jsme spolu, paní,  

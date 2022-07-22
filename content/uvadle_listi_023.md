@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Poledne\.
+contentType: poetry
 ---
 
 <section>
-
-Poledne.
 
 _Pusto, kam oko dohlédne.  
 Kolkolem pro sluch, pro pohled  

@@ -1,6 +1,6 @@
 ---
 title: PRVNÍ HRST
-contentType: prose
+contentType: poetry
 ---
 
 <section>

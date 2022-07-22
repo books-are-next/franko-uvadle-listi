@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Doubečku, dube zelenavý,
+contentType: poetry
 ---
 
 <section>
-
-Doubečku, dube zelenavý,
 
 _od čeho jsi tak kadeřavý?_
 

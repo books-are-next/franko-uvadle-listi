@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Neproklínal jsem tě, drahá,
+contentType: poetry
 ---
 
 <section>
-
-Neproklínal jsem tě, drahá,
 
 _i když to byl velký žal.  
 Ten tvůj smích a to své hoře  

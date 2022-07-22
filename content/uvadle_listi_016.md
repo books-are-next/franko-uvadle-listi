@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "Kolikrát se mi objevuje v\_snech,"
+contentType: poetry
 ---
 
 <section>
-
-Kolikrát se mi objevuje v snech,
 
 _milá, tvůj obraz, plný toho světla,  
 jímž zářil kdysi v mladých, jarních dnech,  

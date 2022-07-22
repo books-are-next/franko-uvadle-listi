@@ -1,6 +1,6 @@
 ---
 title: DRUHÁ HRST
-contentType: prose
+contentType: poetry
 ---
 
 <section>
