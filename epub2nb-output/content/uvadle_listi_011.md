@@ -1,9 +1,12 @@
 ---
-title: Ano, tys jediná pravdivá láska moje,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Ano, tys jediná pravdivá láska moje,_
 
 _ta, jež se v životě nemůže naplnit.  
 Tys nejtajnější vzruch, který mi bez pokoje  

@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "franko-uvadle-listi-ae0b752",
-  "revision": "ae0b752",
+  "identifier": "franko-uvadle-listi-5bb4dfe",
+  "revision": "5bb4dfe",
   "readingOrder": [
     "promo.html",
     "uvadle_listi_005.html",
@@ -52,12 +52,11 @@
     "uvadle_listi_042.html",
     "uvadle_listi_043.html",
     "uvadle_listi_044.html",
-    "uvadle_listi_045.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Jul 22 2022 08:39:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658479165197
+    "date": "Fri Jul 22 2022 09:01:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658480505440
   },
   "documents": [
     {
@@ -113,7 +112,7 @@
       ]
     },
     {
-      "title": "Po dlouhém, tupém, tíživém spánku",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_007.html",
       "words": 85,
       "chars": 461,
@@ -126,14 +125,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Po dlouhém, tupém, tíživém spánku",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nemám strach z Boha, nemám strach z běsů,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_008.html",
       "words": 147,
       "chars": 774,
@@ -146,14 +145,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nemám strach z Boha, nemám strach z běsů,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Proč tě tak miluji, překrásná moje paní,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_009.html",
       "words": 108,
       "chars": 542,
@@ -166,14 +165,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Proč tě tak miluji, překrásná moje paní,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Jednou jsme se znenadání",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_010.html",
       "words": 140,
       "chars": 726,
@@ -186,14 +185,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jednou jsme se znenadání",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ano, tys jediná pravdivá láska moje,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_011.html",
       "words": 102,
       "chars": 553,
@@ -206,14 +205,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ano, tys jediná pravdivá láska moje,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Tvůj zrak je jako tiché moře",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_012.html",
       "words": 39,
       "chars": 199,
@@ -226,7 +225,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Tvůj zrak je jako tiché moře",
+          "name": null,
           "id": null,
           "children": []
         }
@@ -253,7 +252,7 @@
       ]
     },
     {
-      "title": "Ty pole bez konce, ty pole bílé,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_014.html",
       "words": 49,
       "chars": 227,
@@ -266,14 +265,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ty pole bez konce, ty pole bílé,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Když mě potkáš na ulici,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_015.html",
       "words": 121,
       "chars": 571,
@@ -286,14 +285,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Když mě potkáš na ulici,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kolikrát se mi objevuje v snech,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_016.html",
       "words": 98,
       "chars": 502,
@@ -306,14 +305,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kolikrát se mi objevuje v snech,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Neproklínal jsem tě, drahá,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_017.html",
       "words": 94,
       "chars": 486,
@@ -326,14 +325,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Neproklínal jsem tě, drahá,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ach mé štěstí, nevyčítám ti to,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_018.html",
       "words": 73,
       "chars": 363,
@@ -346,7 +345,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ach mé štěstí, nevyčítám ti to,",
+          "name": null,
           "id": null,
           "children": []
         }
@@ -413,7 +412,7 @@
       ]
     },
     {
-      "title": "V Přemyšlu nad zeleným proudem Sanu",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_022.html",
       "words": 395,
       "chars": 2093,
@@ -426,14 +425,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "V Přemyšlu nad zeleným proudem Sanu",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poledne.",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_023.html",
       "words": 153,
       "chars": 736,
@@ -446,14 +445,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Poledne.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Rozpučel javor, zelený javor,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_024.html",
       "words": 95,
       "chars": 525,
@@ -466,14 +465,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Rozpučel javor, zelený javor,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Hoj, ty mé děvčátko, jako květ prosté,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_025.html",
       "words": 100,
       "chars": 488,
@@ -486,14 +485,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Hoj, ty mé děvčátko, jako květ prosté,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kalinečko moje, proč se v háji skláníš,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_026.html",
       "words": 115,
       "chars": 580,
@@ -506,14 +505,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kalinečko moje, proč se v háji skláníš,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Doubečku, dube zelenavý,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_027.html",
       "words": 96,
       "chars": 532,
@@ -526,14 +525,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Doubečku, dube zelenavý,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ach ty žale, žale,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_028.html",
       "words": 78,
       "chars": 395,
@@ -546,14 +545,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ach ty žale, žale,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pročpak se nesměješ nikdy?",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_029.html",
       "words": 55,
       "chars": 293,
@@ -566,7 +565,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pročpak se nesměješ nikdy?",
+          "name": null,
           "id": null,
           "children": []
         }
@@ -593,7 +592,7 @@
       ]
     },
     {
-      "title": "Smějte se mi, věčné hvězdy!",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_031.html",
       "words": 56,
       "chars": 291,
@@ -606,14 +605,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Smějte se mi, věčné hvězdy!",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Dokud tě nevidím,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_032.html",
       "words": 77,
       "chars": 409,
@@ -626,14 +625,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Dokud tě nevidím,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Až někdy za noci uslyšíš pod okny",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_033.html",
       "words": 55,
       "chars": 290,
@@ -646,14 +645,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Až někdy za noci uslyšíš pod okny",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Jak zvíře v jařmu táhnu dál den ze dne",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_034.html",
       "words": 77,
       "chars": 410,
@@ -666,14 +665,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak zvíře v jařmu táhnu dál den ze dne",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Padá, padá, padá sníh.",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_035.html",
       "words": 65,
       "chars": 371,
@@ -686,7 +685,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Padá, padá, padá sníh.",
+          "name": null,
           "id": null,
           "children": []
         }
@@ -713,7 +712,7 @@
       ]
     },
     {
-      "title": "Když vodu přikryjí ledy,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_037.html",
       "words": 59,
       "chars": 298,
@@ -726,14 +725,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Když vodu přikryjí ledy,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Matičko moje milovaná!",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_038.html",
       "words": 217,
       "chars": 1184,
@@ -746,14 +745,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Matičko moje milovaná!",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Písni, mé ubohé střelené ptáče,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_039.html",
       "words": 69,
       "chars": 350,
@@ -766,14 +765,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Písni, mé ubohé střelené ptáče,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Buď sbohem též. Už nikdy víc",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_040.html",
       "words": 84,
       "chars": 427,
@@ -786,14 +785,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Buď sbohem též. Už nikdy víc",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Dost, písni, dost! Už nemáš sil",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_041.html",
       "words": 74,
       "chars": 379,
@@ -806,14 +805,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Dost, písni, dost! Už nemáš sil",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Duše je nesmrtelná! Žije věčně!",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_042.html",
       "words": 362,
       "chars": 1890,
@@ -826,14 +825,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Duše je nesmrtelná! Žije věčně!",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Taková malá, drobná věc,",
+      "title": "Uvadlé listí",
       "file": "uvadle_listi_043.html",
       "words": 118,
       "chars": 602,
@@ -846,7 +845,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Taková malá, drobná věc,",
+          "name": null,
           "id": null,
           "children": []
         }
@@ -861,7 +860,7 @@
       "role": "chapter",
       "order": 40,
       "prev": "uvadle_listi_043.html",
-      "next": "uvadle_listi_045.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -873,34 +872,14 @@
       ]
     },
     {
-      "title": "Uvadlé listí",
-      "file": "uvadle_listi_045.html",
-      "words": 52,
-      "chars": 359,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 41,
-      "prev": "uvadle_listi_044.html",
-      "next": "about.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 100,
-      "chars": 681,
-      "ideas": 8,
+      "words": 138,
+      "chars": 894,
+      "ideas": 18,
       "role": "about",
       "order": null,
-      "prev": "uvadle_listi_045.html",
+      "prev": "uvadle_listi_044.html",
       "next": null,
       "toc": [
         {
@@ -915,14 +894,14 @@
   ],
   "totals": {
     "all": {
-      "words": 4654,
-      "chars": 24600,
-      "ideas": 818
+      "words": 4640,
+      "chars": 24454,
+      "ideas": 814
     },
     "chapters": {
-      "words": 4548,
-      "chars": 23887,
-      "ideas": 806
+      "words": 4496,
+      "chars": 23528,
+      "ideas": 792
     }
   }
 }

@@ -1,9 +1,12 @@
 ---
-title: "Nemám strach z\_Boha, nemám strach z\_běsů,"
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Nemám strach z Boha, nemám strach z běsů,_
 
 _účet mé duše je dosud čistý;  
 Nemám strach z vlků z hlubokých lesů,  

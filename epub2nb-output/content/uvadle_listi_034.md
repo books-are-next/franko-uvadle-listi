@@ -1,9 +1,12 @@
 ---
-title: "Jak zvíře v\_jařmu táhnu dál den ze dne"
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Jak zvíře v jařmu táhnu dál den ze dne_
 
 _svůj těžký pluh až na konečnou mez;  
 řeřavím ohněm, který zvolna bledne,  

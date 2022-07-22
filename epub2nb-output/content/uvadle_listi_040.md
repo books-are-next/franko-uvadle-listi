@@ -1,9 +1,12 @@
 ---
-title: Buď sbohem též\. Už nikdy víc
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Buď sbohem též. Už nikdy víc_
 
 _ti nepohlédnu do zornic  
 a neřeknu tvé jméno.  

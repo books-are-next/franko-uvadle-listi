@@ -1,9 +1,12 @@
 ---
-title: "Kolikrát se mi objevuje v\_snech,"
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Kolikrát se mi objevuje v snech,_
 
 _milá, tvůj obraz, plný toho světla,  
 jímž zářil kdysi v mladých, jarních dnech,  

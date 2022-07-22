@@ -1,9 +1,12 @@
 ---
-title: Hoj, ty mé děvčátko, jako květ prosté,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Hoj, ty mé děvčátko, jako květ prosté,_
 
 _proč je tvé srdce jak ten trn ostré?_
 
