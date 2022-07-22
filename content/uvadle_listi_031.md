@@ -1,9 +1,12 @@
 ---
-title: Smějte se mi, věčné hvězdy!
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Smějte se mi, věčné hvězdy!_
 
 _Vždyť jsem troska, červíček!  
 Moje srdce a mé smysly  

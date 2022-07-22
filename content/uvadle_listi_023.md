@@ -1,9 +1,12 @@
 ---
-title: Poledne\.
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Poledne._
 
 _Pusto, kam oko dohlédne.  
 Kolkolem pro sluch, pro pohled  

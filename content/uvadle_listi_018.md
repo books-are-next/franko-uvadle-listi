@@ -1,9 +1,12 @@
 ---
-title: Ach mé štěstí, nevyčítám ti to,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Ach mé štěstí, nevyčítám ti to,_
 
 _jako matka vedlo jsi mě v žití.  
 Má-li pole rodit dobré žito,  

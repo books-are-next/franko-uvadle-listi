@@ -1,9 +1,12 @@
 ---
-title: Když mě potkáš na ulici,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Když mě potkáš na ulici,_
 
 _vyhneš se mi oklikou.  
 A je dobře! Osud nechtěl,  

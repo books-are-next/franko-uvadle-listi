@@ -1,9 +1,12 @@
 ---
-title: Duše je nesmrtelná! Žije věčně!
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Duše je nesmrtelná! Žije věčně!_
 
 _Takový krutý, hrozný výmysl,  
 hodný jen Loyoly a Torquemady!  

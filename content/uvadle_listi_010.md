@@ -1,9 +1,12 @@
 ---
-title: Jednou jsme se znenadání
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Jednou jsme se znenadání_
 
 _kdesi sešli náhodou.  
 Mluvili jsme spolu, paní,  

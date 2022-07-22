@@ -1,9 +1,12 @@
 ---
-title: Doubečku, dube zelenavý,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Doubečku, dube zelenavý,_
 
 _od čeho jsi tak kadeřavý?_
 

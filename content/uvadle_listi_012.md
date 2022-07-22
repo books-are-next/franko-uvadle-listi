@@ -1,9 +1,12 @@
 ---
-title: Tvůj zrak je jako tiché moře
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Tvůj zrak je jako tiché moře_
 
 _se světélky na vlnách:  
 mého srdce dávné hoře  

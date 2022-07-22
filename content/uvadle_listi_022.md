@@ -1,9 +1,12 @@
 ---
-title: "V\_Přemyšlu nad zeleným proudem Sanu"
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_V Přemyšlu nad zeleným proudem Sanu_
 
 _na mostě stál jsem v těžkých myšlenkách,  
 v myšlenkách na tebe, ty moje duše,  

@@ -1,9 +1,12 @@
 ---
-title: Po dlouhém, tupém, tíživém spánku
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Po dlouhém, tupém, tíživém spánku_
 
 _zas tryská píseň jako proud,  
 jako když začne z popela oheň  

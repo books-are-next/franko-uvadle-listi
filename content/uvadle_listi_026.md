@@ -1,9 +1,12 @@
 ---
-title: "Kalinečko moje, proč se v\_háji skláníš,"
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Kalinečko moje, proč se v háji skláníš,_
 
 _proč se v háji skláníš?  
 Což se světla bojíš, což se slunce chráníš,  

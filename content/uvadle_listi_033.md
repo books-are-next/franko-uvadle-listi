@@ -1,9 +1,12 @@
 ---
-title: Až někdy za noci uslyšíš pod okny
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Až někdy za noci uslyšíš pod okny_
 
 _někoho plakat a vzlykat jak děcko,  
 nevstávej, nebuď se, neruš své milé sny,  

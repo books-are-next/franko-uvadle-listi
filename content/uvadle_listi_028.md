@@ -1,9 +1,12 @@
 ---
-title: Ach ty žale, žale,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Ach ty žale, žale,_
 
 _stále tíž tě cítím!  
 Pustil jsem svou holubičku,  

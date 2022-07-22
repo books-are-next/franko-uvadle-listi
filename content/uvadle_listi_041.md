@@ -1,9 +1,12 @@
 ---
-title: Dost, písni, dost! Už nemáš sil
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Dost, písni, dost! Už nemáš sil_
 
 _tišit, co srdce týrá.  
 Těžký mrak navždy slunce skryl,  

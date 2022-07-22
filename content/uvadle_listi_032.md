@@ -1,9 +1,12 @@
 ---
-title: Dokud tě nevidím,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Dokud tě nevidím,_
 
 _je každý okamžik nesmírné břímě;  
 sotva tě uvidím,  

@@ -1,9 +1,12 @@
 ---
-title: Když vodu přikryjí ledy,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+_Když vodu přikryjí ledy,_
 
 _ztratí svůj pohyb a třpyt.  
 Když lampu rozbiješ v kusy,  
