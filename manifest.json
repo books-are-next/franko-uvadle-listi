@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "franko-uvadle-listi-df11573",
-  "revision": "df11573",
+  "identifier": "franko-uvadle-listi-b61afe0",
+  "revision": "b61afe0",
   "readingOrder": [
     "promo.html",
     "uvadle_listi_005.html",
@@ -55,8 +55,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:56:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150987793
+    "date": "Mon Oct 10 2022 15:48:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416930687
   },
   "documents": [
     {
@@ -875,7 +875,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 136,
-      "chars": 894,
+      "chars": 895,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -895,7 +895,7 @@
   "totals": {
     "all": {
       "words": 4638,
-      "chars": 24454,
+      "chars": 24455,
       "ideas": 812
     },
     "chapters": {
